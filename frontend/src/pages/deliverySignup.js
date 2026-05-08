@@ -74,7 +74,6 @@ export default function DeliverySignup() {
     }
 
     if (docError) return toast.error(docError);
-    if (!document) return toast.error("Please upload your Driving License (PDF) to proceed.");
 
     setLoading(true);
     try {
@@ -144,7 +143,7 @@ export default function DeliverySignup() {
 
           <div className="mb-6">
             <label className="block text-sm font-semibold text-white/80 mb-2">
-              📄 Driving License <span className="text-white/40 font-normal">(PDF · 150 KB)</span>
+              📄 Driving License <span className="text-white/40 font-normal">(Optional · PDF · 150 KB)</span>
             </label>
             <input type="file" accept="application/pdf" id="delivery-doc"
               className="hidden" onChange={handleDocChange} />
@@ -152,7 +151,7 @@ export default function DeliverySignup() {
               className="flex items-center gap-3 w-full p-3 rounded bg-white/10 border border-dashed border-white/30 hover:border-white/60 cursor-pointer transition-all">
               <span className="text-xl">🪪</span>
               <span className="text-sm text-white/70">
-                {document ? document.name : "Upload License PDF..."}
+                {document ? document.name : "Upload License PDF (Optional)..."}
               </span>
             </label>
             {docError && <p className="text-red-400 text-[10px] mt-1">{docError}</p>}

@@ -6107,3 +6107,7 @@
 {"level":"info","message":"Delivery Boy Application Submitted (Existing User): existing_test_user@example.com","timestamp":"2026-05-08T05:06:50.976Z"}
 {"level":"http","message":"\u001b[0mPOST /api/auth/delivery-signup \u001b[32m200\u001b[0m 3388.998 ms - 108\u001b[0m","timestamp":"2026-05-08T05:06:50.980Z"}
 {"level":"warn","message":"[SLOW] POST /api/auth/delivery-signup — 3391.7ms","timestamp":"2026-05-08T05:06:50.980Z"}
+{"level":"warn","message":"REDIS_URL not found. Scaling will rely on in-memory fallback.","timestamp":"2026-05-08T05:07:04.438Z"}
+{"level":"info","message":"Attempting to connect to MongoDB...","timestamp":"2026-05-08T05:07:04.783Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-08T05:07:04.834Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2026-05-08T05:07:05.681Z"}

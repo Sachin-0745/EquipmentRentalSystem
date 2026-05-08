@@ -45,7 +45,7 @@ The system has **four user roles**: Customer, Vendor, Delivery Boy, and Admin.
 - Bulk import up to 200 equipment items at once via JSON
 
 ### Delivery Boy
-- Apply as a delivery partner by submitting name, city, vehicle, and driving license (PDF)
+- Apply as a delivery partner by submitting name, city, vehicle, and driving license (Optional PDF)
 - **Verification:** Existing users submit directly; new users require OTP verification first
 - Final approval is handled by the admin
 - After approval, gets a dedicated delivery dashboard
