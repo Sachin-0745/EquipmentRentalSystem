@@ -1,0 +1,146 @@
+{"level":"error","message":"UNHANDLED REJECTION: TypeError: logAction is not a function","timestamp":"2026-05-02T18:38:00.856Z"}
+{"level":"error","message":"Response Timeout - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-02T20:45:29.786Z"}
+{"level":"error","message":"Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2026-05-05T17:37:40.154Z"}
+{"level":"error","message":"Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2026-05-05T18:14:31.082Z"}
+{"level":"error","message":"Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2026-05-05T19:06:23.334Z"}
+{"level":"error","message":"Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2026-05-05T19:11:42.460Z"}
+{"level":"error","message":"Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2026-05-05T19:15:24.184Z"}
+{"level":"error","message":"Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2026-05-05T19:22:06.955Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:16:34.153Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:16:48.280Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:16:55.460Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:17:10.051Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:17:17.232Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:17:33.544Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:17:56.319Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:18:08.048Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:18:21.204Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:18:36.734Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:18:48.824Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:19:11.412Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:24:50.086Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:25:08.948Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:44:58.667Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T21:45:06.044Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T22:24:50.438Z"}
+{"level":"error","message":"MongoDB connection error:","timestamp":"2026-05-05T22:25:34.741Z"}
+{"level":"error","message":"MongoDB connection error details: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","name":"MongooseServerSelectionError","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (D:\\SELabProject\\server\\node_modules\\mongoose\\lib\\connection.js:1180:11)\n    at NativeConnection.openUri (D:\\SELabProject\\server\\node_modules\\mongoose\\lib\\connection.js:1111:11)\n    at async connectMongoDB (D:\\SELabProject\\server\\mongoDB.js:14:5)","timestamp":"2026-05-05T22:26:30.903Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-05T22:26:30.904Z"}
+{"level":"error","message":"MongoDB connection error details: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","name":"MongooseServerSelectionError","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (D:\\SELabProject\\server\\node_modules\\mongoose\\lib\\connection.js:1180:11)\n    at NativeConnection.openUri (D:\\SELabProject\\server\\node_modules\\mongoose\\lib\\connection.js:1111:11)\n    at async connectMongoDB (D:\\SELabProject\\server\\mongoDB.js:14:5)","timestamp":"2026-05-05T22:26:41.821Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-05T22:26:41.822Z"}
+{"level":"error","message":"MongoDB Connection Failed. If using Atlas, please check your IP Whitelist.","timestamp":"2026-05-05T22:27:45.800Z"}
+{"level":"error","message":"Error Detail:","timestamp":"2026-05-05T22:27:45.801Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-05T22:27:45.802Z"}
+{"level":"error","message":"MongoDB Connection Failed. If using Atlas, please check your IP Whitelist.","timestamp":"2026-05-05T22:28:12.719Z"}
+{"level":"error","message":"Error Detail:","timestamp":"2026-05-05T22:28:12.720Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-05T22:28:12.720Z"}
+{"level":"error","message":"Response Timeout - /api/auth/logout - POST - ::1","timestamp":"2026-05-06T08:54:02.898Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/rentals/track?page=1&limit=10 - GET - ::1","timestamp":"2026-05-06T08:54:37.627Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:54:53.024Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:54:58.050Z"}
+{"level":"error","message":"⚠️  Atlas IP Whitelist check: Go to Atlas → Network Access → Add Current IP.","timestamp":"2026-05-06T08:55:43.176Z"}
+{"level":"error","message":"MongoDB Connection Failed. If using Atlas, ensure your IP is whitelisted.","timestamp":"2026-05-06T08:55:43.176Z"}
+{"level":"error","message":"Error Detail:","timestamp":"2026-05-06T08:55:43.177Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T08:55:43.177Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:55:57.526Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:55:57.530Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:56:02.535Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:56:02.537Z"}
+{"level":"error","message":"F4200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T08:56:07.556Z"}
+{"level":"error","message":"⚠️  Atlas IP Whitelist check: Go to Atlas → Network Access → Add Current IP.","timestamp":"2026-05-06T08:57:05.740Z"}
+{"level":"error","message":"MongoDB Connection Failed. If using Atlas, ensure your IP is whitelisted.","timestamp":"2026-05-06T08:57:05.740Z"}
+{"level":"error","message":"Error Detail:","timestamp":"2026-05-06T08:57:05.741Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T08:57:05.741Z"}
+{"level":"error","message":"⚠️  Atlas IP Whitelist check: Go to Atlas → Network Access → Add Current IP.","timestamp":"2026-05-06T08:57:06.034Z"}
+{"level":"error","message":"MongoDB Connection Failed. If using Atlas, ensure your IP is whitelisted.","timestamp":"2026-05-06T08:57:06.035Z"}
+{"level":"error","message":"Error Detail:","timestamp":"2026-05-06T08:57:06.036Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T08:57:06.036Z"}
+{"level":"error","message":"⚠️  Atlas IP Whitelist check: Go to Atlas → Network Access → Add Current IP.","timestamp":"2026-05-06T08:58:04.106Z"}
+{"level":"error","message":"MongoDB Connection Failed. If using Atlas, ensure your IP is whitelisted.","timestamp":"2026-05-06T08:58:04.106Z"}
+{"level":"error","message":"Error Detail:","timestamp":"2026-05-06T08:58:04.107Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T08:58:04.107Z"}
+{"level":"error","message":"Operation `equipment.countDocuments()` buffering timed out after 10000ms - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:01:17.259Z"}
+{"level":"error","message":"Operation `categories.find()` buffering timed out after 10000ms - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:01:17.273Z"}
+{"level":"error","message":"Operation `equipment.countDocuments()` buffering timed out after 10000ms - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:01:27.286Z"}
+{"level":"error","message":"Operation `categories.find()` buffering timed out after 10000ms - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:01:27.290Z"}
+{"level":"error","message":"Operation `equipment.countDocuments()` buffering timed out after 10000ms - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:01:37.221Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:05:54.596Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:05:54.683Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:06:28.472Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:06:28.473Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:07:01.970Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:07:03.577Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:07:37.849Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:07:40.593Z"}
+{"level":"error","message":"Cannot call `equipment.countDocuments()` before initial connection is complete if `bufferCommands = false`. Make sure you `await mongoose.connect()` if you have `bufferCommands = false`. - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:07:52.104Z"}
+{"level":"error","message":"Cannot call `categories.find()` before initial connection is complete if `bufferCommands = false`. Make sure you `await mongoose.connect()` if you have `bufferCommands = false`. - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:07:52.117Z"}
+{"level":"error","message":"Cannot call `categories.find()` before initial connection is complete if `bufferCommands = false`. Make sure you `await mongoose.connect()` if you have `bufferCommands = false`. - /api/categories?page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:07:52.129Z"}
+{"level":"error","message":"Cannot call `equipment.countDocuments()` before initial connection is complete if `bufferCommands = false`. Make sure you `await mongoose.connect()` if you have `bufferCommands = false`. - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:07:52.147Z"}
+{"level":"error","message":"Cannot call `equipment.countDocuments()` before initial connection is complete if `bufferCommands = false`. Make sure you `await mongoose.connect()` if you have `bufferCommands = false`. - /api/equipment?city=Jaipur&page=1&limit=12 - GET - ::1","timestamp":"2026-05-06T09:07:52.155Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:08:18.300Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:08:23.811Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:09:11.524Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:09:21.295Z"}
+{"level":"error","message":"CRITICAL: MongoDB Atlas Connection Failed. Your IP address might not be whitelisted.","timestamp":"2026-05-06T09:10:42.634Z"}
+{"level":"error","message":"Final MongoDB Connection Error:","timestamp":"2026-05-06T09:10:42.635Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:10:42.635Z"}
+{"level":"error","message":"CRITICAL: MongoDB Atlas Connection Failed. Your IP address might not be whitelisted.","timestamp":"2026-05-06T09:10:53.539Z"}
+{"level":"error","message":"Final MongoDB Connection Error:","timestamp":"2026-05-06T09:10:53.539Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:10:53.539Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:14:15.045Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:14:15.087Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:15:37.103Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:15:37.115Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:16:09.463Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:16:09.464Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:17:08.804Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:17:08.850Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:17:46.059Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:17:46.659Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:18:27.232Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:18:35.236Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:19:27.446Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:19:45.178Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:21:48.013Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T09:21:48.020Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T10:56:38.805Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T10:57:17.903Z"}
+{"level":"error","message":"Login Error:","timestamp":"2026-05-06T10:57:24.281Z"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 5000ms - /api/auth/login - POST - ::1","timestamp":"2026-05-06T10:57:24.285Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T10:58:07.474Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T10:59:10.018Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:00:39.824Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:03:35.846Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:07:06.506Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:08:03.876Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:08:40.948Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:09:40.039Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:10:18.210Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:11:07.945Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:21:58.993Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:22:11.490Z"}
+{"level":"error","message":"MongoDB error event:","timestamp":"2026-05-06T11:23:46.580Z"}
+{"level":"error","message":"logger is not defined - /api/notifications - GET - ::1","timestamp":"2026-05-06T11:57:30.553Z"}
+{"level":"error","message":"logger is not defined - /api/notifications - GET - ::1","timestamp":"2026-05-06T11:57:30.581Z"}
+{"level":"error","message":"logger is not defined - /api/notifications - GET - ::1","timestamp":"2026-05-06T12:00:05.125Z"}
+{"level":"error","message":"logger is not defined - /api/notifications - GET - ::1","timestamp":"2026-05-06T12:00:16.226Z"}
+{"level":"error","message":"logger is not defined - /api/notifications - GET - ::1","timestamp":"2026-05-06T12:00:20.982Z"}
+{"level":"error","message":"logger is not defined - /api/admin/equipment - POST - ::1","timestamp":"2026-05-06T12:00:45.250Z"}
+{"level":"error","message":"Response Timeout - /api/auth/signup - POST - ::1","timestamp":"2026-05-06T18:52:28.124Z"}
+{"level":"error","message":"Rental validation failed: total_price: Cast to Number failed for value \"NaN\" (type number) at path \"total_price\" - /api/rent - POST - ::1","timestamp":"2026-05-06T20:14:53.519Z"}
+{"level":"error","message":"Rental validation failed: total_price: Cast to Number failed for value \"NaN\" (type number) at path \"total_price\" - /api/rent - POST - ::1","timestamp":"2026-05-06T20:14:57.098Z"}
+{"level":"error","message":"Rental validation failed: total_price: Cast to Number failed for value \"NaN\" (type number) at path \"total_price\" - /api/rent - POST - ::1","timestamp":"2026-05-06T20:14:57.169Z"}
+{"level":"error","message":"Rental validation failed: total_price: Cast to Number failed for value \"NaN\" (type number) at path \"total_price\" - /api/rent - POST - ::1","timestamp":"2026-05-06T20:14:57.375Z"}
+{"level":"error","message":"Rental validation failed: total_price: Cast to Number failed for value \"NaN\" (type number) at path \"total_price\" - /api/rent - POST - ::1","timestamp":"2026-05-06T20:15:00.319Z"}
+{"level":"error","message":"Rental validation failed: total_price: Cast to Number failed for value \"NaN\" (type number) at path \"total_price\" - /api/rent - POST - ::1","timestamp":"2026-05-06T20:15:00.555Z"}
+{"level":"error","message":"Cannot access 'paymentMethod' before initialization - /api/rent - POST - ::1","timestamp":"2026-05-06T21:14:44.647Z"}
+{"level":"error","message":"Cannot access 'paymentMethod' before initialization - /api/rent - POST - ::1","timestamp":"2026-05-06T21:14:52.277Z"}
+{"level":"error","message":"Cannot access 'paymentMethod' before initialization - /api/rent - POST - ::1","timestamp":"2026-05-06T21:15:02.022Z"}
+{"level":"error","message":"Rental validation failed: delivery_status: `ready_for_pickup` is not a valid enum value for path `delivery_status`. - /api/admin/orders/69fbafce48aa183e64b27fac/status - PUT - ::1","timestamp":"2026-05-06T21:18:52.295Z"}
+{"level":"error","message":"Rental validation failed: delivery_status: `ready_for_pickup` is not a valid enum value for path `delivery_status`. - /api/admin/orders/69fbafce48aa183e64b27fac/status - PUT - ::1","timestamp":"2026-05-06T21:19:23.682Z"}
+{"level":"error","message":"Rental validation failed: delivery_status: `ready_for_pickup` is not a valid enum value for path `delivery_status`. - /api/admin/orders/69fbafce48aa183e64b27fac/status - PUT - ::1","timestamp":"2026-05-06T21:20:32.266Z"}
+{"level":"error","message":"Rental validation failed: delivery_status: `returned` is not a valid enum value for path `delivery_status`. - /api/returns/verify/69fbafce48aa183e64b27fac - PUT - ::1","timestamp":"2026-05-06T21:42:51.087Z"}
+{"level":"error","message":"Notification is not defined - /api/vendor/orders/69fbbaeff5bde07a61708dd1/status - PUT - ::1","timestamp":"2026-05-06T22:05:31.538Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Rental\" - /api/delivery/orders/undefined/action - PUT - ::1","timestamp":"2026-05-07T20:49:14.540Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2) - /api/auth/signup - POST - ::1","timestamp":"2026-05-08T05:00:55.329Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2) - /api/auth/login - POST - ::1","timestamp":"2026-05-08T05:01:35.555Z"}

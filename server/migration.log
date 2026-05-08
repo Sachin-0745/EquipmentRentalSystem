@@ -1,0 +1,10 @@
+[2026-05-02T20:16:17.352Z] SUCCESS: Connected to MySQL
+[2026-05-02T20:16:29.170Z] SUCCESS: Connected to MongoDB
+[2026-05-02T20:16:29.505Z] SUCCESS: Migrated 7 users (offset: 0)
+[2026-05-02T20:16:34.429Z] SUCCESS: Migrated 15 equipment (offset: 0)
+[2026-05-02T20:17:49.658Z] SUCCESS: Connected to MySQL
+[2026-05-02T20:17:53.809Z] SUCCESS: Connected to MongoDB
+[2026-05-02T20:18:07.190Z] SUCCESS: Migrated 7 users (offset: 0)
+[2026-05-02T20:18:09.250Z] SUCCESS: Migrated 15 equipment (offset: 0)
+[2026-05-02T20:18:19.665Z] SUCCESS: Migrated 32 rentals (offset: 0)
+[2026-05-02T20:18:19.667Z] SUCCESS: Migration completed successfully!

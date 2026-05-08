@@ -1,0 +1,34 @@
+[2026-05-02T20:16:34.721Z] ERROR: Failed to migrate rental ID 1 - Cannot read properties of undefined (reading 'message')
+[2026-05-02T20:16:34.722Z] ERROR: Migration failed globally - Cannot read properties of undefined (reading 'message')
+[2026-05-02T20:18:09.522Z] ERROR: Skipping rental 1: User or Equipment not found - N/A
+[2026-05-02T20:18:09.691Z] ERROR: Skipping rental 2: User or Equipment not found - N/A
+[2026-05-02T20:18:09.998Z] ERROR: Skipping rental 3: User or Equipment not found - N/A
+[2026-05-02T20:18:10.651Z] ERROR: Skipping rental 4: User or Equipment not found - N/A
+[2026-05-02T20:18:12.350Z] ERROR: Skipping rental 5: User or Equipment not found - N/A
+[2026-05-02T20:18:12.961Z] ERROR: Skipping rental 6: User or Equipment not found - N/A
+[2026-05-02T20:18:13.178Z] ERROR: Skipping rental 7: User or Equipment not found - N/A
+[2026-05-02T20:18:14.430Z] ERROR: Skipping rental 8: User or Equipment not found - N/A
+[2026-05-02T20:18:14.656Z] ERROR: Skipping rental 9: User or Equipment not found - N/A
+[2026-05-02T20:18:15.439Z] ERROR: Skipping rental 10: User or Equipment not found - N/A
+[2026-05-02T20:18:15.656Z] ERROR: Skipping rental 11: User or Equipment not found - N/A
+[2026-05-02T20:18:15.802Z] ERROR: Skipping rental 12: User or Equipment not found - N/A
+[2026-05-02T20:18:15.939Z] ERROR: Skipping rental 13: User or Equipment not found - N/A
+[2026-05-02T20:18:16.102Z] ERROR: Skipping rental 14: User or Equipment not found - N/A
+[2026-05-02T20:18:16.366Z] ERROR: Skipping rental 15: User or Equipment not found - N/A
+[2026-05-02T20:18:16.622Z] ERROR: Skipping rental 16: User or Equipment not found - N/A
+[2026-05-02T20:18:16.854Z] ERROR: Skipping rental 17: User or Equipment not found - N/A
+[2026-05-02T20:18:16.989Z] ERROR: Skipping rental 18: User or Equipment not found - N/A
+[2026-05-02T20:18:17.125Z] ERROR: Skipping rental 19: User or Equipment not found - N/A
+[2026-05-02T20:18:17.272Z] ERROR: Skipping rental 20: User or Equipment not found - N/A
+[2026-05-02T20:18:17.423Z] ERROR: Skipping rental 21: User or Equipment not found - N/A
+[2026-05-02T20:18:17.654Z] ERROR: Skipping rental 22: User or Equipment not found - N/A
+[2026-05-02T20:18:17.958Z] ERROR: Skipping rental 23: User or Equipment not found - N/A
+[2026-05-02T20:18:18.174Z] ERROR: Skipping rental 24: User or Equipment not found - N/A
+[2026-05-02T20:18:18.397Z] ERROR: Skipping rental 25: User or Equipment not found - N/A
+[2026-05-02T20:18:18.701Z] ERROR: Skipping rental 26: User or Equipment not found - N/A
+[2026-05-02T20:18:18.854Z] ERROR: Skipping rental 27: User or Equipment not found - N/A
+[2026-05-02T20:18:19.027Z] ERROR: Skipping rental 28: User or Equipment not found - N/A
+[2026-05-02T20:18:19.180Z] ERROR: Skipping rental 29: User or Equipment not found - N/A
+[2026-05-02T20:18:19.348Z] ERROR: Skipping rental 30: User or Equipment not found - N/A
+[2026-05-02T20:18:19.480Z] ERROR: Skipping rental 31: User or Equipment not found - N/A
+[2026-05-02T20:18:19.665Z] ERROR: Skipping rental 32: User or Equipment not found - N/A
