@@ -26,6 +26,7 @@ const upload = require("../middlewares/upload");
 const { validate, productCreateRules, productUpdateRules } = require("../middlewares/validate");
 
 router.get("/equipment-approvals", adminController.getEquipmentApprovals);
+router.get("/inventory", adminController.getAllEquipment);
 router.put("/equipment/:id/status", adminController.updateEquipmentStatus);
 
 router.post("/equipment", upload.single("image"), productCreateRules, validate, adminController.createEquipment);

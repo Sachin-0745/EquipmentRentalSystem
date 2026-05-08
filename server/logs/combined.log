@@ -6111,3 +6111,71 @@
 {"level":"info","message":"Attempting to connect to MongoDB...","timestamp":"2026-05-08T05:07:04.783Z"}
 {"level":"info","message":"Server running on port 5000","timestamp":"2026-05-08T05:07:04.834Z"}
 {"level":"info","message":"Connected to MongoDB successfully","timestamp":"2026-05-08T05:07:05.681Z"}
+{"level":"info","message":"User Login: yuvrajmeenabamnawat@gmail.com (delivery_boy) logged in successfully","timestamp":"2026-05-08T05:36:58.142Z"}
+{"level":"http","message":"\u001b[0mPOST /api/auth/login \u001b[32m200\u001b[0m 446.161 ms - 313\u001b[0m","timestamp":"2026-05-08T05:36:58.153Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 163.630 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.372Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 90.769 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.784Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 156.868 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.835Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 80.886 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.869Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[32m200\u001b[0m 176.816 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.886Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 7.403 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.896Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 2.144 ms - -\u001b[0m","timestamp":"2026-05-08T05:36:58.905Z"}
+{"level":"http","message":"\u001b[0mGET /api/auth/me \u001b[32m200\u001b[0m 184.510 ms - 222\u001b[0m","timestamp":"2026-05-08T05:37:09.345Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 195.900 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:09.353Z"}
+{"level":"http","message":"\u001b[0mGET /api/auth/me \u001b[36m304\u001b[0m 137.159 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:09.485Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 3.797 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:14.452Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 7.096 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:14.472Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 1.721 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:14.476Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 92.458 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:14.550Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 162.181 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:14.602Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 60.319 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:14.619Z"}
+{"level":"http","message":"\u001b[0mGET /api/auth/me \u001b[36m304\u001b[0m 144.831 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:17.822Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 153.256 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:17.826Z"}
+{"level":"http","message":"\u001b[0mGET /api/auth/me \u001b[36m304\u001b[0m 143.388 ms - -\u001b[0m","timestamp":"2026-05-08T05:37:17.972Z"}
+{"level":"info","message":"Delivery Boy Signup: OTP sent to no_doc_driver_1778238547.10815@example.com","timestamp":"2026-05-08T05:39:11.513Z"}
+{"level":"http","message":"\u001b[0mPOST /api/auth/delivery-signup \u001b[32m200\u001b[0m 4371.404 ms - 83\u001b[0m","timestamp":"2026-05-08T05:39:11.514Z"}
+{"level":"warn","message":"[SLOW] POST /api/auth/delivery-signup — 4372.1ms","timestamp":"2026-05-08T05:39:11.514Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 110.307 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:17.435Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 224.613 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:17.531Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 227.802 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:17.552Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 8.486 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:17.577Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 7.799 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:17.607Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 152.878 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:17.632Z"}
+{"level":"warn","message":"Auth Failed: jwt expired for /api/notifications","timestamp":"2026-05-08T05:40:59.783Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[33m401\u001b[0m 3.697 ms - 39\u001b[0m","timestamp":"2026-05-08T05:40:59.786Z"}
+{"level":"warn","message":"Auth Failed: jwt expired for /api/notifications","timestamp":"2026-05-08T05:40:59.803Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[33m401\u001b[0m 2.108 ms - 39\u001b[0m","timestamp":"2026-05-08T05:40:59.806Z"}
+{"level":"warn","message":"Auth Failed: jwt expired for /api/notifications","timestamp":"2026-05-08T05:40:59.898Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[33m401\u001b[0m 1.995 ms - 39\u001b[0m","timestamp":"2026-05-08T05:40:59.899Z"}
+{"level":"http","message":"\u001b[0mPOST /api/auth/refresh-token \u001b[32m200\u001b[0m 97.657 ms - 283\u001b[0m","timestamp":"2026-05-08T05:40:59.910Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[32m200\u001b[0m 1.503 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:59.919Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 1.395 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:59.925Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 1.429 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:59.928Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 75.022 ms - -\u001b[0m","timestamp":"2026-05-08T05:40:59.992Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 163.890 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:00.084Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 77.310 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:00.100Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 149.818 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:00.236Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 158.657 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:00.396Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 159.052 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:17.405Z"}
+{"level":"http","message":"\u001b[0mGET /api/rentals/track?page=1&limit=10 \u001b[36m304\u001b[0m 238.834 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:17.487Z"}
+{"level":"http","message":"\u001b[0mGET /api/rentals/track?page=1&limit=10 \u001b[36m304\u001b[0m 245.984 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:17.735Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 72.089 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:19.458Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 58.575 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:19.518Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 182.418 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:19.562Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?page=1&limit=12 \u001b[32m200\u001b[0m 167.892 ms - -\u001b[0m","timestamp":"2026-05-08T05:41:21.755Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 66.596 ms - -\u001b[0m","timestamp":"2026-05-08T05:42:03.188Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 144.674 ms - -\u001b[0m","timestamp":"2026-05-08T05:42:03.262Z"}
+{"level":"http","message":"\u001b[0mGET /api/categories?page=1&limit=12 \u001b[36m304\u001b[0m 73.884 ms - -\u001b[0m","timestamp":"2026-05-08T05:42:03.264Z"}
+{"level":"http","message":"\u001b[0mGET /api/notifications \u001b[36m304\u001b[0m 160.902 ms - -\u001b[0m","timestamp":"2026-05-08T05:42:03.271Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 7.250 ms - -\u001b[0m","timestamp":"2026-05-08T05:42:03.280Z"}
+{"level":"http","message":"\u001b[0mGET /api/equipment?city=Jaipur&page=1&limit=12 \u001b[36m304\u001b[0m 4.317 ms - -\u001b[0m","timestamp":"2026-05-08T05:42:03.287Z"}
+{"level":"warn","message":"REDIS_URL not found. Scaling will rely on in-memory fallback.","timestamp":"2026-05-08T05:46:52.201Z"}
+{"level":"info","message":"Attempting to connect to MongoDB...","timestamp":"2026-05-08T05:46:53.111Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-08T05:46:53.212Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2026-05-08T05:46:56.080Z"}
+{"level":"warn","message":"REDIS_URL not found. Scaling will rely on in-memory fallback.","timestamp":"2026-05-08T05:47:01.633Z"}
+{"level":"info","message":"Attempting to connect to MongoDB...","timestamp":"2026-05-08T05:47:02.395Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-08T05:47:02.555Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2026-05-08T05:47:04.461Z"}
+{"level":"warn","message":"Auth Failed: jwt malformed for /api/admin/inventory","timestamp":"2026-05-08T05:47:55.230Z"}
+{"level":"http","message":"\u001b[0mGET /api/admin/inventory \u001b[33m401\u001b[0m 4.380 ms - 39\u001b[0m","timestamp":"2026-05-08T05:47:55.234Z"}

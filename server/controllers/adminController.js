@@ -287,7 +287,42 @@ exports.updateEquipmentStatus = async (req, res, next) => {
   }
 };
 
-// --- EQUIPMENT CRUD ---
+// --- EQUIPMENT MANAGEMENT ---
+exports.getAllEquipment = async (req, res, next) => {
+  try {
+    const { page, limit, offset } = parsePagination(req.query);
+    const total = await Equipment.countDocuments();
+    
+    const now = new Date();
+    const data = await Equipment.aggregate([
+      { $sort: { createdAt: -1 } },
+      { $skip: offset },
+      { $limit: limit },
+      {
+        $lookup: {
+          from: "users",
+          localField: "vendor_id",
+          foreignField: "_id",
+          as: "vendor"
+        }
+      },
+      { $unwind: { path: "$vendor", preserveNullAndEmptyArrays: true } },
+      {
+        $addFields: {
+          shop_name: "$vendor.shop_name",
+          store_address: "$vendor.address",
+          id: { $toString: "$_id" }
+        }
+      },
+      { $project: { vendor: 0, reviews: 0 } }
+    ]);
+
+    paginatedResponse(res, data, total, page, limit);
+  } catch (err) {
+    next(err);
+  }
+};
+
 exports.createEquipment = async (req, res, next) => {
   try {
     const { name, description, category, price, quantity, city } = req.body;

@@ -28,7 +28,7 @@ export default function AdminPanel() {
 
   // Standardized Data Fetching Hooks
   const { data: categories, fetchData: fetchCategories } = useFetch("/categories");
-  const { data: equipmentList, loading: equipLoading, pagination: equipPag, fetchData: fetchEquipment } = useFetch("/equipment");
+  const { data: equipmentList, loading: equipLoading, pagination: equipPag, fetchData: fetchEquipment } = useFetch("/admin/inventory");
   const { data: rentalsList, loading: rentalsLoading, pagination: rentalsPag, fetchData: fetchRentals } = useFetch("/admin/rentals");
   const { data: usersList, loading: usersLoading, pagination: usersPag, fetchData: fetchUsers } = useFetch("/admin/users");
   const { data: vendorsList, loading: vendorsLoading, pagination: vendorsPag, fetchData: fetchVendors } = useFetch("/admin/vendors");
