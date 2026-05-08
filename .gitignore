@@ -27,6 +27,16 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Uploads
-server/uploads/
-frontend/public/uploads/
+# Project Management and Reports
+ROLLBACK_PLAN.md
+qa_test_report.md
+final_qa_test_report.md
+project_analysis_and_srs_mapping.md
+final_architecture_evaluation.md
+viva_preparation_guide.md
+evaluation_report.md
+SRS.docx
+srs_text.txt
+*.jpg
+*.png
+*.jpeg
